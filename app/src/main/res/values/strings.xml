@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodigoQR</string>
+    <string name="error_camera">Acceso a cámara no permitido</string>
+</resources>
