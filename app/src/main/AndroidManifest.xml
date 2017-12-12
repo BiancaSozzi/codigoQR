@@ -12,6 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".detectorQR">
+
+        </activity>
+
+        <activity android:name=".TextCaptureActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

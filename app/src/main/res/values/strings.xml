@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">CodigoQR</string>
+    <string name="app_name">CodigoQR - TextRecognition</string>
     <string name="error_camera">Acceso a cámara no permitido</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
 </resources>
